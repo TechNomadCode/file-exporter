@@ -1,5 +1,9 @@
 # Simple File Consolidator (PowerShell)
 
+Author: Tech Nomad
+
+Twitter: https://x.com/Tech_N0mad
+
 This PowerShell script gathers files directly from the *current directory* where it is executed, filters out the script file itself and the designated output file (`output.txt`), and concatenates their paths and contents into that single output file.
 
 This is a simpler alternative to Git-based consolidation, useful when you only need to package files from a single, flat directory.
